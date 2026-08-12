@@ -52,17 +52,6 @@ Taubaté, SP — Brasil | [henriquedias.vercel.app](https://henriquedias.vercel.
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueDias57&show_icons=true&theme=dark&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueDias57&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## Projetos em Destaque
 
 | Projeto | Descrição | Stack |
