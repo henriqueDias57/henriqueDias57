@@ -1,20 +1,24 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Henrique!+%F0%9F%91%8B;Computer+Engineering+%40+UNITAU;IT+Intern+%40+INSS;Desenvolvedor+Web+%26+Infraestrutura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Henrique+Dias;Engenharia+da+Computacao+(UNITAU);Estagiario+de+TI+@+INSS;Desenvolvimento+Web+%26+Infraestrutura)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Sobre mim
-
-Sou estudante do **6º semestre de Engenharia da Computação** na Universidade de Taubaté (UNITAU) e **Estagiário de TI no INSS**, onde trabalho com suporte de sistemas, infraestrutura de hardware e automação de processos internos. Apaixonado por tecnologia, desenvolvo aplicações web modernas e soluções de infraestrutura desde o zero. Estou em busca de oportunidades de estágio e vagas nível júnior em desenvolvimento web ou TI.
-
-📍 Taubaté, SP — Brasil &nbsp;|&nbsp; 🌐 [henriquedias.vercel.app](https://henriquedias.vercel.app) &nbsp;|&nbsp; 🤝 Aberto a oportunidades presenciais, híbridas e remotas
+> SYS.PROFILE // Computer Engineering Student (UNITAU) · IT Intern @ INSS · Web Systems & Infrastructure
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Sobre mim
+
+Estudante do 6º semestre de Engenharia da Computação na Universidade de Taubaté (UNITAU) e Estagiário de TI no INSS. Atuo diariamente com suporte de sistemas, manutenção de infraestrutura e automação de processos internos. Desenvolvo aplicações web modernas com foco em performance, arquitetura limpa e alta eficiência. Em busca de oportunidades de estágio e posições nível júnior em desenvolvimento web ou TI.
+
+Taubaté, SP — Brasil | [henriquedias.vercel.app](https://henriquedias.vercel.app) | Disponível para oportunidades presenciais, híbridas e remotas
+
+---
+
+## Tecnologias e Ferramentas
 
 **Linguagens**
 
@@ -49,42 +53,37 @@ Sou estudante do **6º semestre de Engenharia da Computação** na Universidade 
 
 ---
 
-## 📊 GitHub Statistics
+## Estatísticas do GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=henriqueDias57&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c0cfe0&border_color=21262d&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueDias57&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c0cfe0&border_color=21262d&langs_count=6&hide=shell" alt="Linguagens mais usadas" />
-
-</div>
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=henriqueDias57&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c0cfe0&border_color=21262d&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueDias57&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c0cfe0&border_color=21262d&langs_count=6&hide=shell" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-| Projeto | Descricao | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
 | [**portfolio**](https://github.com/henriqueDias57/portfolio) | Site pessoal com conceito NEXUS OS — terminal interativo, Three.js, GSAP e i18n PT/EN | HTML · CSS · JS · Three.js |
-| [**ferreira-imoveis**](https://github.com/henriqueDias57/ferreira-imoveis) | Portal institucional e sistema de gestao imobiliaria com painel administrativo | Next.js · TypeScript · Prisma |
-| [**site---Advogada-Mariana-**](https://github.com/henriqueDias57/site---Advogada-Mariana-) | Landing page profissional para escritorio de advocacia | React · Vite · Tailwind CSS |
+| [**ferreira-imoveis**](https://github.com/henriqueDias57/ferreira-imoveis) | Portal institucional e sistema de gestão imobiliária com painel administrativo | Next.js · TypeScript · Prisma |
+| [**site---Advogada-Mariana-**](https://github.com/henriqueDias57/site---Advogada-Mariana-) | Landing page profissional para escritório de advocacia | React · Vite · Tailwind CSS |
 
 ---
 
-## 📬 Contato
+## Contato
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-henriquedias.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://henriquedias.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Dias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-dias-5411a8355/)
-[![GitHub](https://img.shields.io/badge/GitHub-henriqueDias57-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriqueDias57)
-
-</div>
+<p align="center">
+  <a href="https://henriquedias.vercel.app"><img src="https://img.shields.io/badge/Portfolio-henriquedias.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/henrique-dias-5411a8355/"><img src="https://img.shields.io/badge/LinkedIn-Henrique_Dias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/henriqueDias57"><img src="https://img.shields.io/badge/GitHub-henriqueDias57-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-*O portfolio possui versao em ingles — acesse [henriquedias.vercel.app](https://henriquedias.vercel.app) e clique em EN.*
+*O portfólio possui versão em inglês — acesse [henriquedias.vercel.app](https://henriquedias.vercel.app) e clique em EN.*
 
 </div>
