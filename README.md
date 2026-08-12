@@ -42,7 +42,6 @@ Taubaté, SP — Brasil | [henriquedias.vercel.app](https://henriquedias.vercel.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Ferramentas**
@@ -55,10 +54,12 @@ Taubaté, SP — Brasil | [henriquedias.vercel.app](https://henriquedias.vercel.
 
 ## Estatísticas do GitHub
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=henriqueDias57&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c0cfe0&border_color=21262d&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueDias57&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c0cfe0&border_color=21262d&langs_count=6&hide=shell" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueDias57&show_icons=true&theme=dark&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueDias57&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
