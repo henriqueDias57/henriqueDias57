@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#143323"/>
+      <stop offset="100%" stop-color="#1B422E"/>
+    </linearGradient>
+    <pattern id="grid-pattern" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Fundo Sólido Verde Floresta com Grid Técnico Sutil -->
+  <rect width="880" height="220" rx="8" fill="url(#bg-grad)"/>
+  <rect width="880" height="220" rx="8" fill="url(#grid-pattern)"/>
+  <rect x="1" y="1" width="878" height="218" rx="7" fill="none" stroke="#2D5E43" stroke-width="1.5"/>
+
+  <!-- Faixa de Topo / Metadados -->
+  <text x="42" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#E2A782">CADERNO DE DADOS &amp; BI // ENGENHARIA DA COMPUTAÇÃO</text>
+  <text x="838" y="44" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#B8C2BC">TAUBATÉ, SP — BRASIL</text>
+  
+  <line x1="42" y1="56" x2="838" y2="56" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+
+  <!-- Título Principal em Serifa -->
+  <text x="42" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="600" fill="#F4F4F0" letter-spacing="-0.5">Henrique Dias</text>
+
+  <!-- Subtítulo e Foco -->
+  <text x="42" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" fill="#D1D8D3">
+    Estudante de Engenharia da Computação · Estagiário de TI no INSS
+  </text>
+  
+  <rect x="42" y="152" width="230" height="28" rx="3" fill="#C05621"/>
+  <text x="157" y="171" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">
+    FOCO EM ANÁLISE DE DADOS &amp; BI
+  </text>
+
+  <!-- Métricas Rápidas à Direita -->
+  <g transform="translate(560, 88)">
+    <rect width="278" height="92" rx="4" fill="rgba(0, 0, 0, 0.2)" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1"/>
+    
+    <text x="18" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8" fill="#E2A782">DESTAQUES EM DADOS</text>
+    
+    <text x="18" y="54" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="600" fill="#F4F4F0">61.254 <tspan font-family="-apple-system, sans-serif" font-size="11" font-weight="400" fill="#B8C2BC">registros analisados</tspan></text>
+    <text x="18" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="600" fill="#F4F4F0">214.783 <tspan font-family="-apple-system, sans-serif" font-size="11" font-weight="400" fill="#B8C2BC">unidades consolidadas</tspan></text>
+  </g>
+</svg>
